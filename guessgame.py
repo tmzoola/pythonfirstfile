@@ -10,7 +10,8 @@ guess = 0
 while guess != answer:
     guess = int(input())
     if guess == answer:
-        print("well done")
+        print("well done my brother")
+        print("welcome to github")
         break
     else:
         if guess < answer:
