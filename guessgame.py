@@ -11,7 +11,7 @@ while guess != answer:
     guess = int(input())
     if guess == answer:
         print("well done my brother")
-        print("welcome to github")
+        print("welcome to github skjdskdopskdposkd")
         break
     else:
         if guess < answer:
